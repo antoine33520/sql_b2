@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"mssql.connections": [
+			{
+				"server": "AT-WORKSTATION",
+				"database": "Chinook",
+				"authenticationType": "Integrated",
+				"profileName": "Chinook",
+				"password": ""
+			}
+		],
+	}
+}
